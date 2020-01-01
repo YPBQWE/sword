@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1996fb02-e904-49d7-936c-697ee1853add" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/swords.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/InterviewAlgorithm.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/BattleshipsInABoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/BestMeetingPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/CanPlaceFlowers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/CardFilipGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/EmployeeFreeTime.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/FindTheCelebrity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/FirstMissingPositive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/FruitIntoBaskets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/HIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/ImageSmoother.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/IncreasingTripletSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/InsertInterval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/KEmptySlots.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/LargestNumberAtLeastTwice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/LongestIncreasingSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MaxProductOfThreeNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MaximumSwap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MeetingRooms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MergeIntervals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MergeSortedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MinimumIndexSumOfTwoLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MinimumMovesToEqualArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MissingNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/MyCalendarThree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/NextGreaterElementI.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/PascalsTriangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/PourWater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/ProductOfArrayExceptSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/ReadNCharacters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/RelativeRanks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/RotateMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/SetMatrixZeroes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/SortColors.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/SparseMatrixMultiplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/SubarraySumEqualsK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/ThirdMaximumNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/TwoSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/array/TwoSumII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/CombinationSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/CombinationSumII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/Combinations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/ExpressionAddOperators.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/GenerateParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/LetterCasePermutation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/LetterPhoneNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/PalindromePartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/Permutations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/PermutationsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/RegularExpressionMatching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/RemoveInvalidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/Subsets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/SubsetsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/TargetSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/WildcardMatching.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/WordSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/backtracking/WordSearchII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/FindPeakElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/FirstBadVersion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/HIndexII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/MedianOfTwoSortedArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/MinSortedRotatedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/PowXN.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/SearchForARange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/SearchInsertPosition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/SearchRotatedSortedArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/binary_search/SqrtX.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/bit_manipulation/DivideTwoIntegers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/bit_manipulation/GrayCode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/bit_manipulation/HammingDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/bit_manipulation/TotalHammingDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/BinarayTreeLevelOrderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/BusRoutes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/CutOffTreesForGolfEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/Matrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/OpenTheLock.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/RaceCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/SlidingPuzzle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/WallsAndGates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/WordLadder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/breadth_first_search/WordLadderII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/AccountsMerge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/AlienDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/BricksFallingWhenHit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/CloneGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/CourseSchedule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/CourseScheduleII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/CrackingTheSafe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/GraphValidTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/IslandPerimeter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/LongestConsecutiveSequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/LongestIncreasingPathOfMatix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/Minesweeper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/MovieRecommend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/NumberOfDistinctIslands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/NumberOfDistinctIslandsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/NumberOfIslands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/RobotRoomCleaner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/depth_first_search/SmallestRectangleEnclosingBlackPixels.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/AutocompleteSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/BSTIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/CopyListWithRandomPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/EncodeAndDecodeTinyURL.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/Excel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/LFUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/NestedIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/RandomizedCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/RandomizedSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/SerializeDeserializeBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/TicTacToe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/Trie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/Twitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/WordDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/design/WordFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/divide_and_conquer/KthLargestElementInAnArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/divide_and_conquer/ReversePairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/divide_and_conquer/SearchA2DMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/BestTimeToBuyAndSellStockIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/BestTimeToBuyAndSellStocks.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/BestTimeToBuyAndSellStocksWithFee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/BurstBalloons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CanIWin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CatAndMouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CherryPickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/ClimbingStairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CoinChange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CoinChange2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CombinationSumIV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/ConcatenatedWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/ContinuousSubarraySum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/CornerRectangles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/DecodeWays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/DecodeWaysII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/DungeonGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/HouseRobber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/HouseRobberII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/KnightProbabilityInChessboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/LargestPlusSign.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/LargestSumOfAverages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/LongestIncreasingSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/LongestPaliandromicSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/LongestPalindromicSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MaxSum3SubArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MaximalSquare.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MaximumProductSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MaximumSubarray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MinCostClimbingStairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/MinimumNumberOfRefuelingStops.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/NumberOfLIS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/OddEvenJump.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/PaintHouseII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/PalindromePairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/PalindromePartitioningII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/PalindromicSubstrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/SplitArrayLargestSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/StoneGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/TwoKeysKeyboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/UniqueBinarySearchTrees.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/UniqueBinarySearchTreesII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/WordBreak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/dynamic_programming/WordBreakII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/BurstBalloons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/CourseScheduleIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/GasStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/JumpGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/JumpGameII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/MaximumLengthOfPairChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/NonOverlappingIntervals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/QueueReconstructionByHeight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/greedy/TaskScheduler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/Anagrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/BrickWall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/ContiguousArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/CustomSortString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/GroupAnagrams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/KdiffPairsInanArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/MaximumSizeSubarraySumEqualsk.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/PartitionLabels.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/ShortEncodingOfWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/SortCharByFrequency.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/SubstringConcatenationOfWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/TwoSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/hashing/ValidAnagram.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/heap/Candy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/heap/MeetingRoomsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/heap/SlidingWindowMaximum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/heap/TheSkylineProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/heap/TopKFrequentWords.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/DeleteNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/IntersectionOfTwoLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/LinkedListCycle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/MergeKSortedLists.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/MergeTwoSortedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/MiddleOfLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/PaliandromeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/ReverseLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/ReverseNodesKGroup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/linked_list/SwapNodesInPairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/AddDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/AddTwoNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/BulbSwitcherII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/CountPrimes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/CouplesHoldingHands.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/ExcelSheetColumnTitle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/GlobalAndLocalInversions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/NthMagicalNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/ReachingPoints.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/RomanToInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/RotateFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/SolveTheEquation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/math/WaterAndJugProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/reservoir_sampling/RandomPickIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/BasicCalculator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/DecodeString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/ExclusiveTimeOfFunctions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/LargestRectangleInHistogram.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/LongestValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/MaximalRectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/MinStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/MyQueue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/stack/ValidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/AddBinary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/CompareVersionNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/CountAndSay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ExcelSheetColumnNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/FindTheClosestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/FirstUniqueCharacterInAString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ImplementStrStr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/IsomorphicStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/LongestCommonPrefix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/LongestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/LongestWordInDictonary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/MonotoneIncreasingDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/MultiplyStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/OneEditDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/PermutationInString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/RepeatedSubstringPattern.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ReverseWordsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ReverseWordsInAString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ShortestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/SimplifyPath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/StringCompression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/StringToInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/TextJustification.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ValidPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ValidPalindromeII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ValidWordAbbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/string/ZigZagConversion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/AverageOfLevelsInBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BSTtoDoublyLinkedList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinarayTreeRightSideView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinaryTreeInorderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinaryTreeLongestConsecutiveSequenceII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinaryTreeMaximumPathSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinaryTreePaths.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BinaryTreePostorderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/BoundaryOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ClosestBinarySearchTreeValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ClosestLeafInABinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ConstructStringFromBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ConvertBSTToGreaterTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ConvertSortedArrayToBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/DiameterOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/EqualTreePartition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/FindBottomLeftTreeValue.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/FlattenBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/InorderSuccessorInBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/LCA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/LargestBSTSubtree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/LowestCommonAncestorBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/MaximumBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/MaximumWidthOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/MinimumAbsoluteDifferenceInBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/MostFrequentSubtreeSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/NextRightPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/NextRightPointerII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/PathSumIII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/PostorderToBT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/PreorderToBT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/RecoverBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SameTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SerializeAndDeserializeNAryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SortedArrayToBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SplitBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SubtreeOfAnotherTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SumofLeftLeaves.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/SymmetricTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/TwoSumIV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ValidBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/tree/ZigZagTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/FourSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/LongestSubstringWitoutRepeats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/MinimumSizeSubarraySum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/MinimumWindowSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/MoveZeroes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/RemoveDuplicates.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/RemoveDuplicatesII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/SmallestRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/SubarrayProductLessThanK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/ThreeSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/ThreeSumClosest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/leet/two_pointers/TrappingRainWater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 二分查找.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 位运算.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 分治.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 动态规划.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 双指针.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 哈希表.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 图.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 字符串.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 手写复杂代码.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 排序.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 搜索.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 数学.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 数组与矩阵.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 栈和队列.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 树.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 贪心思想.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/Leetcode 题解 - 链表.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 10~19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 20~29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 30~39.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 3~9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 40~49.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 50~59.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/notes/剑指 Offer 题解 - 60~68.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FastHand/HeapSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FastHand/One.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FastHand/Three.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FastHand/Two.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Fighting/KMP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swordFor/FastHand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swordFor/FindIn.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swordFor/HeapSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/swordFor/MergeSort.java" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="swords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="swords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swords" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1996fb02-e904-49d7-936c-697ee1853add" name="Default" comment="" />
+      <created>1577848341840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577848341840</updated>
+      <workItem from="1577848343091" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="116000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32938644" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
